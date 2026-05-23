@@ -121,7 +121,7 @@ look like ramp-then-drain shapes: buffer fills during the stall, drains
 fast once the card recovers. that ramp is the ring buffer doing exactly
 what it's there to do.
 
-## results (fill in after running)
+## results (will fill in after first tests)
 
 | metric | value |
 |---|---|
